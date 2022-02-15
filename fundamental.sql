@@ -22,3 +22,4 @@ select * from students;
 select stu_namem from studentsPRIMARY
 
 
+
